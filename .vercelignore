@@ -1,0 +1,5 @@
+.env
+.env.*
+loqate_scrape/
+supabase/
+node_modules/

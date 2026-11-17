@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/runtime-config.js",
+      "destination": "/api/runtime-config.js"
+    }
+  ]
+}
